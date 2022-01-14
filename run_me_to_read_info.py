@@ -8,6 +8,9 @@ def print_change():
 def print_branch():
     print('this is used for testing branch')
 
+def print_merge():
+    print('this is used for test merging branch')
+
 
 if __name__=='__main__':
     # print_info()
