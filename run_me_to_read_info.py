@@ -15,4 +15,5 @@ def print_merge():
 if __name__=='__main__':
     # print_info()
     # print_change()
-    print_branch()
+    # print_branch()
+    print_merge()
